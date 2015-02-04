@@ -1,0 +1,25 @@
+{
+  "name": "craft-key",
+  "version": "1.0.0",
+  "description": "XML key model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dria7226/craft-key"
+  },
+  "keywords": [
+    "craft"
+  ],
+  "author": "dragos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dria7226/craft-key/issues"
+  },
+  "homepage": "https://github.com/dria7226/craft-key",
+  "dependencies": {
+    "craft-module": "^1.0.2"
+  }
+}

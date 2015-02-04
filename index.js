@@ -1,0 +1,1 @@
+modulle.exports = require('craft-module')(module)

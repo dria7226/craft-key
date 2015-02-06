@@ -1,1 +1,1 @@
-modulle.exports = require('craft-module')(module)
+module.exports = require('craft-module')(module)

@@ -1,7 +1,7 @@
 <craft name="key">
 	<parameter name="jawLength" default="4" type="int"/>
     <parameter name="sides" default="6" type="int"/>
-    <parameter name="type" default="0" type="int"/>
+    <parameter name="type" default="1" type="bool"/>
 	<script type = "text/openjscad">
     function main(params)
     {

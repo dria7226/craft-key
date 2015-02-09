@@ -20,6 +20,5 @@
   },
   "homepage": "https://github.com/dria7226/craft-key",
   "dependencies": {
-    "craft-module": "^1.0.2"
   }
 }

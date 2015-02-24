@@ -19,6 +19,6 @@
     "url": "https://github.com/dria7226/craft-key/issues"
   },
   "homepage": "https://github.com/dria7226/craft-key",
-  "dependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
